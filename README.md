@@ -1,2 +1,2 @@
 # 50.001-Information-System-and-Programming
-#Personal Repository for 50.001
+This is a personal repository with questions and solutions for 50.001 Info Sys and Programming
